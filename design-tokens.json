@@ -1,0 +1,20 @@
+{
+    "button": {
+        "blue": {
+        "value": "#66ccff",
+        "type": "color"
+        },
+        "red": {
+        "value": "#ff5050",
+        "type": "color"
+        },
+        "green": {
+        "value": "#009900",
+        "type": "color"
+        },
+        "yellow": {
+        "value": "#fffaeb",
+        "type": "color"
+        }
+    }
+}
